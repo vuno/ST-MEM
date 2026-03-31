@@ -1,4 +1,5 @@
-# Copyright 2024 ST-MEM paper authors. <https://github.com/bakqui/ST-MEM>
+# Original work Copyright (c) lucidrains. <https://github.com/lucidrains/vit-pytorch>
+# Modified work Copyright (c) VUNO Inc. All rights reserved. <https://github.com/vuno/ST-MEM>
 
 # This source code is licensed under the license found in the
 # LICENSE file in the root directory of this source tree.
